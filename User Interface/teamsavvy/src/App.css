@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F4F5F8;
+  width:100%;
+  
+}
+.App {
+  display: flex;
+}
+main {
+background-color:#F4F5F8;
+max-height: 100vh;
+overflow: auto;
+}
+
+.bg-header{background-color:#F4F5F8;z-index:-2}
+
+/* #sidenav{position:relative}
+
+#sidenav > button{position: absolute;color:#000;right:-50px}
+.breadcrumb > .breadcrumb-item{margin-left:30px}
+
+.sidebarprofile{height:35px; width:auto}
+
+.navlinklogo a img{
+  height:30px!important;
+  overflow:hidden;
+} */
